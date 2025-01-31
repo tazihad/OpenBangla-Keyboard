@@ -12,5 +12,4 @@ if (OS_LINUX)
     endif()
 endif (OS_LINUX)
 
-## Include subdirectories
-add_subdirectory(riti)
+
