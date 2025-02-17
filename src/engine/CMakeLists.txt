@@ -5,4 +5,4 @@ if (OS_LINUX)
 endif (OS_LINUX)
 
 ## Include subdirectories
-add_subdirectory(riti)
+## add_subdirectory(riti)
